@@ -1,6 +1,10 @@
 # Sentiment-Analysis-App-with-Hugging-Face-and-Streamlit
 
-
+## Directory structure
+sentiment_analysis
+  -> app.py
+  -> sentiment_utils.py
+  
 ### Setting up the environment in project root directory
 
 python -m venv sentiment_env 

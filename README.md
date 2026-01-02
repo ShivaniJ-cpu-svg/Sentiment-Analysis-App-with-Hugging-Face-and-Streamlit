@@ -11,6 +11,6 @@ source sentiment_env/bin/activate
 Streamlit run app.py 
 
 # Output
-<img width="1294" height="700" alt="Image" src="https://github.com/user-attachments/assets/0b9d0951-047d-406d-8937-111bf1b36052" />
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/0b9d0951-047d-406d-8937-111bf1b36052" />
 
-<img width="1294" height="691" alt="Image" src="https://github.com/user-attachments/assets/23cf683b-a8c8-4c3d-848e-ef0b36485c87" />
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/23cf683b-a8c8-4c3d-848e-ef0b36485c87" />
